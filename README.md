@@ -14,7 +14,8 @@ Please Install the Following Libraries in Your Terminal
 
   1. Clone and Locate the Repository
   2. Go to the Location of the Repository
-  3. Run the Following Command:
+  3. In the test_CreateNewUser.py and the test_UpdateUser.py, please change the location of the json file in the code to where the json files have been stored in your device
+  4. Run the Following Command:
       pytest PythonTestingRepository
 
 ## Step 2: Altenate
