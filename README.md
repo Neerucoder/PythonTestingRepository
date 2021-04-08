@@ -19,5 +19,5 @@ Please Install the Following Libraries in Your Terminal
 
 ## Step 2: Altenate
 
-In the Repository you can go to the ipynb file and click run in Google colab or go to the following link to test the code:
+In the Repository you can go to the ipynb file and click the  'Open In Colab' Button or go to the following link to test the code:
   https://colab.research.google.com/drive/1O-b19tzWNCf-Fn62Kos_89OPnQ5Mbfdv?usp=sharing
